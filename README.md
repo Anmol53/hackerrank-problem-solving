@@ -15,7 +15,7 @@ This is mostly for my personal learning and future references, and if anyone nee
 
 ## Author
 Anmol Agrawal
-- [Mail ID](anmol.ag53@gmail.com)
+- [Mail ID](mailto:anmol.ag53@gmail.com?subject=[GitHub])
 - [LinkedIn](https://www.linkedin.com/in/anmol-53/)
 - [GitHub](https://github.com/Anmol53/)
 - [LeetCode](https://leetcode.com/anmol_53/)
