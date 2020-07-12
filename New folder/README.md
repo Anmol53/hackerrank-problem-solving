@@ -1,6 +1,5 @@
 # Solve Me First
 
-hj
 <p>Complete the function <em>solveMeFirst</em> to compute the sum of two integers.</p>
 <p><strong>Function prototype:</strong></p>
 <p>int solveMeFirst(int a, int b);</p>
