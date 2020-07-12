@@ -43,7 +43,8 @@
   <li> <em>1 ≤ b[i] ≤ 100</em></li>
 </ul>
 <p><strong>Sample Input 0</strong></p>
-<pre><code>5 6 7<br/>3 6 10</code></pre>
+<pre><code>5 6 7
+3 6 10</code></pre>
 <p><strong>Sample Output 0</strong></p>
 <pre><code>1 1</code></pre>
 <p><strong>Explanation 0</strong></p>
@@ -60,7 +61,8 @@
 </ul>
 <p>Alice's comparison score is <strong>1</strong>, and Bob's comparison score is <strong>1</strong>. Thus, we return the array <strong>[1,1]</strong>. </p>
 <p><strong>Sample Input 1</strong></p>
-<pre><code>17 28 30<br>99 16 8</code></pre>
+<pre><code>17 28 30
+99 16 8</code></pre>
 <p><strong>Sample Output 1</strong></p>
 <pre><code>2 1</code></pre>
 <p><strong>Explanation 1</strong></p>
