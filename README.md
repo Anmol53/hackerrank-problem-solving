@@ -13,8 +13,8 @@ This is mostly for my personal learning and future references, and if anyone nee
 
 ***"Try the problem yourself first, then only proceed to the solution. BE FAITHFUL TO YOUR WORK."***
 
-##
-### Algorithms
+## INDEX
+#### Algorithms
 | Subdomain	| Difficulty | Problem Statement | Solution | Score |
 | :-------: | :--------: | :---------------: | :------: | :---: |
 | Warmup | Easy| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |[SolveMeFirst.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Solve%20Me%20First/SolveMeFirst.c) \| [SolveMeFirst.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Solve%20Me%20First/SolveMeFirst.java)|1|
