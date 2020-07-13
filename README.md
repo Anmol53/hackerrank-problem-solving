@@ -3,7 +3,7 @@
 # Hackerrank Practice Questions (Problem-Solving)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Hackerrank-Problem-Solving) 
-![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving?color=%23ff9900)
 ![License Badge](https://img.shields.io/github/license/Anmol53/Hackerrank-Problem-Solving)
 ![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
