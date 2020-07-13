@@ -1,10 +1,15 @@
+<p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="100"></a></p>
+
 # Hackerrank Practice Questions (Problem-Solving)
 
-![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
-![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
+![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Hackerrank-Problem-Solving) 
+![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving)
 ![License Badge](https://img.shields.io/github/license/Anmol53/Hackerrank-Problem-Solving)
 ![Release Badge](https://img.shields.io/github/contributors/Anmol53/Hackerrank-Problem-Solving)
-![Stars Badge](https://img.shields.io/github/watchers/Anmol53/Hackerrank-Problem-Solving)
+![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
+![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
+![Watchers Badge](https://img.shields.io/github/watchers/Anmol53/Hackerrank-Problem-Solving)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Hackerrank-Problem-Solving)
 [![GitHub followers](https://img.shields.io/github/followers/Anmol53.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Anmol53?tab=followers)
 
 ## Why this repository?
@@ -12,6 +17,8 @@
 This is mostly for my personal learning and future references, and if anyone needs help with a certain problem.
 
 ***"Try the problem yourself first, then only proceed to the solution. BE FAITHFUL TO YOUR WORK."***
+
+If found helpful please press a star.
 
 ## INDEX
 #### Algorithms
