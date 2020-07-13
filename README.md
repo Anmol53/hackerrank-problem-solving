@@ -25,9 +25,14 @@ This is mostly for my personal learning and future references, and if anyone nee
 | Warmup |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Plus%20Minus/PlusMinus.c) | [Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Plus%20Minus/PlusMinus.java) | [Solution.js](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Plus%20Minus/PlusMinus.js)| Easy| 10 |
 | Warmup |[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Staircase/Staircase.c) | [Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Staircase/Staircase.java) | [Solution.js](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Staircase/Staircase.js)| Easy| 10 |
 | Warmup |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Mini-Max%20Sum/Mini-MaxSum.c) | [Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Mini-Max%20Sum/Mini-MaxSum.java) | [Solution.js](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Mini-Max%20Sum/Mini-MaxSum.js)| Easy| 10 |
-| Warmup |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution.c]() | [Solution.java]()|| Easy| 10 |
-| Warmup |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[Solution.c]() | [Solution.java]()|| Easy| 15 |
-
+| Warmup |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Birthday%20Cake%20Candles/Birthday%20Cake%20Candles.c) | [Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Birthday%20Cake%20Candles/BirthdayCakeCandles.java)|[Solution.js](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Birthday%20Cake%20Candles/BirthdayCakeCandles.js)| Easy| 10 |
+| Warmup |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Time%20Conversion/TimeConversion.c) | [Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Time%20Conversion/TimeConversion.java)|[Solution.js](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/Time%20Conversion/TimeConversion.js)| Easy| 15 |
+||||||||
+<!--
+|Implementation||||||10|
+|Implementation||||||10|
+|Implementation||||||10|
+-->
 ## Author
 ***Anmol Agrawal***
 
