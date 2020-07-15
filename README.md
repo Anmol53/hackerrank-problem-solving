@@ -101,6 +101,30 @@ If found helpful please press a ⭐.
 |Implementation|[The Time ln Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/TheTimeInWords.c)|[]()|[]()|Medium|25|
 |Implementation|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/UtopianTree.c)|[]()|[]()|Easy|20|
 |Implementation|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ViralAdvertising.c)|[]()|[]()|Easy|15|
+||||||||
+|Strings|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/AlternatingCharacters.c)|[]()|[]()|Easy|20|
+|Strings|[Anagram](https://www.hackerrank.com/challenges/anagram)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/Anagram.c)|[]()|[]()|Easy|25|
+|Strings|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/BeautifulBinaryString.c)|[]()|[]()|Easy|20|
+|Strings|[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/CaesarCipher.c)|[]()|[]()|Easy|15|
+|Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/CamelCase.c)|[]()|[]()|Easy|15|
+|Strings|[Common Child](https://www.hackerrank.com/challenges/common-child)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/CommonChild.java)|[]()|Medium|60|
+|Strings|[Funny String](https://www.hackerrank.com/challenges/funny-string)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/FunnyString.c)|[]()|[]()|Easy|15|
+|Strings|[Game Of Thrones-l](https://www.hackerrank.com/challenges/game-of-thrones)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/GameOfThrones-I.c)|[]()|[]()|Easy|30|
+|Strings|[Gemstones](https://www.hackerrank.com/challenges/gem-stones)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/Gemstones.c)|[]()|[]()|Easy|20|
+|Strings|[HackerRank ln A String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/HackerRankInAString!.c)|[]()|[]()|Easy|20|
+|Strings|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/MakingAnagrams.c)|[]()|[]()|Easy|30|
+|Strings|[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/MarsExploration.c)|[]()|[]()|Easy|15|
+|Strings|[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/PalindromeIndex.java)|[]()|Easy|25|
+|Strings|[Pangrams](https://www.hackerrank.com/challenges/pangrams)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/Pangrams.c)|[]()|[]()|Easy|20|
+|Strings|[Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SeparateTheNumbers.c)|[]()|[]()|Easy|20|
+|Strings|[Sherlock And Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SherlockAndAnagrams.java)|[]()|Medium|50|
+|Strings|[String Construction](https://www.hackerrank.com/challenges/string-construction)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/StringConstruction.c)|[]()|[]()|Easy|25|
+|Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/StrongPassword.c)|[]()|[]()|Easy|15|
+|Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SuperReducedString.c)|[]()|[]()|Easy|10|
+|Strings|[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TheLove-LetterMystery.c)|[]()|[]()|Easy|20|
+|Strings|[Two Characters](https://www.hackerrank.com/challenges/two-characters)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TwoCharacters.java)|[]()|Easy|20|
+|Strings|[Two Strings](https://www.hackerrank.com/challenges/two-strings)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TwoStrings.c)|[]()|[]()|Easy|25|
+|Strings|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/WeightedUniformStrings.java)|[]()|Easy|20|
 <!--
 
 -->
