@@ -125,6 +125,13 @@ If found helpful please press a ⭐.
 |Strings|[Two Characters](https://www.hackerrank.com/challenges/two-characters)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TwoCharacters.java)|[]()|Easy|20|
 |Strings|[Two Strings](https://www.hackerrank.com/challenges/two-strings)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TwoStrings.c)|[]()|[]()|Easy|25|
 |Strings|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/WeightedUniformStrings.java)|[]()|Easy|20|
+||||||||
+|Search|[Connected Cells In A Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/ConnectedCellsInAGrid.java)|[]()|Medium|50|
+|Search|[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/HackerlandRadioTransmitters.c)|[]()|[]()|Medium|25|
+|Search|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Ice%20Cream%20Parlor.c)|[]()|[]()|Easy|30|
+|Search|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Missing%20Numbers.c)|[]()|[]()|Easy|45|
+|Search|[Pairs](https://www.hackerrank.com/challenges/pairs)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Pairs.java)|[]()|Medium|50|
+
 <!--
 
 -->
