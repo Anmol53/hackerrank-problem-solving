@@ -7,7 +7,7 @@
 ![License Badge](https://img.shields.io/github/license/Anmol53/Hackerrank-Problem-Solving)
 ![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
-![Languages](https://img.shields.io/badge/languages-c%2Cjava%2Cjavascript-yellow.svg)
+![Languages](https://img.shields.io/badge/languages-C%2C%20Java%2C%20Javascript-yellow.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Hackerrank-Problem-Solving)
 [![GitHub followers](https://img.shields.io/github/followers/Anmol53.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Anmol53?tab=followers)
 
