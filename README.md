@@ -9,7 +9,7 @@
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
 ![Languages](https://img.shields.io/badge/languages-C%2C%20Java%2C%20Javascript-yellow.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Hackerrank-Problem-Solving)
-[![GitHub followers](https://img.shields.io/github/followers/Anmol53.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Anmol53?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Anmol53?label=Follow&style=social)](https://github.com/Anmol53?tab=followers)
 
 ## Why this repository?
 
