@@ -25,6 +25,7 @@ If found helpful please press a ⭐.
 - [Implementation](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Implementation)
 - [Strings](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Strings)
 - [Search](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Search) 👈 ***You are here.***
+- [Greedy](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Greedy)
 
 ## Content
 
