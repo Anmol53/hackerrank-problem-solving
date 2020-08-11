@@ -16,21 +16,18 @@ public class Solution {
         ArrayList<Integer> al3 = new ArrayList<Integer>();
         for(; (j < sz2) && (i >= 0); i--){
             if(al1.get(i) > al2.get(j)){
-                int x = i + 2;
-                al3.add(x);
+                al3.add(i + 2);
                 i++;
                 j++;
             }
             else if(al1.get(i) == al2.get(j)){
-                int x = i + 1;
-                al3.add(x);
+                al3.add(i + 1);
                 i++;
                 j++;
             }
         }
-        while(j-- > 0){
-            int x = 1;
-            al3.add(x);
+        while(j++ < sz2){
+            al3.add(1);
         }
         return al3;
     }
