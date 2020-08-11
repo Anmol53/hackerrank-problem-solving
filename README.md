@@ -148,6 +148,7 @@ If found helpful please press a ⭐.
 |Search|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Ice%20Cream%20Parlor.c)|[]()|[]()|Easy|30|
 |Search|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Missing%20Numbers.c)|[]()|[]()|Easy|45|
 |Search|[Pairs](https://www.hackerrank.com/challenges/pairs)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Pairs.java)|[]()|Medium|50|
+|Search|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/SherlockAndArray.c)|[]()|[]()|Easy|40|
 ||||||||
 |Greedy|[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Greedy/BeautifulPairs.c)|[]()|[]()|Easy|30|
 |Greedy|[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Greedy/ChiefHopper.c)|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Greedy/ChiefHopper.java)|[]()|Hard|65|
