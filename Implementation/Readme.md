@@ -30,6 +30,7 @@ If found helpful please press a ⭐.
 
 | Subdomain	| Problem Statement | Solution c | Solution java | Solution js | Difficulty | Score |
 | :-------: | :---------------: | :--------: | :-----------: | :---------: | :--------: | :---: |
+|Implementation|[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/3DSurfaceArea.c)|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/3DSurfaceArea.java)|[]()|Medium|30|
 |Implementation|[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ACM_ICPC_Team.c)|[]()|[]()|Easy|25|
 |Implementation|[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/AlmostSorted.c)|[]()|[]()|Medium|50|
 |Implementation|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/AngryProfessor.c)|[]()|[]()|Easy|20|
@@ -46,6 +47,7 @@ If found helpful please press a ⭐.
 |Implementation|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/CavityMap.c)|[]()|[]()|Easy|30|
 |Implementation|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ChocolateFeast.c)|[]()|[]()|Easy|25|
 |Implementation|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/CircularArrayRotation.c)|[]()|[]()|Easy|20|
+|Implementation|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ClimbingTheLeaderboard.java)|[Solution.js](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ClimbingTheLeaderboard.js)|Medium|20|
 |Implementation|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/CountingValleys.c)|[]()|[]()|Easy|15|
 |Implementation|[Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/CutTheSticks.c)|[]()|[]()|Easy|25|
 |Implementation|[Day Of The Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/DayOfTheProgrammer.c)|[]()|[]()|Easy|15|
@@ -53,6 +55,7 @@ If found helpful please press a ⭐.
 |Implementation|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/DivisibleSumPairs.c)|[]()|[]()|Easy|10|
 |Implementation|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/DrawingBook.c)|[]()|[]()|Easy|10|
 |Implementation|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ElectronicsShop.c)|[]()|[]()|Easy|15|
+|Implementation|[Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/Ema'sSupercomputer.java)|[]()|Medium|40|
 |Implementation|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/Encryption.c)|[]()|[]()|Medium|30|
 |Implementation|[Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/EqualizeTheArray.c)|[]()|[]()|Easy|20|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ExtraLongFactorials.c)|[]()|[]()|Medium|20|
@@ -67,6 +70,7 @@ If found helpful please press a ⭐.
 |Implementation|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/LibraryFine.c)|[]()|[]()|Easy|15|
 |Implementation|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/Lisa'sWorkbook.c)|[]()|[]()|Easy|25|
 |Implementation|[Manasa And Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ManasaAndStones.c)|[]()|[]()|Easy|30|
+|Implementation|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/MatrixLayerRotation.java)|[]()|Hard|80|
 |Implementation|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/MigratoryBirds.c)|[]()|[]()|Easy|10|
 |Implementation|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/MinimumDistances.c)|[]()|[]()|Easy|20|
 |Implementation|[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ModifiedKaprekarNumbers.c)|[]()|[]()|Easy|30|
@@ -80,10 +84,12 @@ If found helpful please press a ⭐.
 |Implementation|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/SockMerchant.c)|[]()|[]()|Easy|10|
 |Implementation|[Strange Counter](https://www.hackerrank.com/challenges/strange-code/submissions)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/StrangeCounter.c)|[]()|[]()|Easy|30|
 |Implementation|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/submissions)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/Taum%26B'day.c)|[]()|[]()|Easy|25|
+|Implementation|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/TheGridSearch.java)|[]()|Medium|30|
 |Implementation|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/submissions)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/TheHurdleRace.c)|[]()|[]()|Easy|15|
 |Implementation|[The Time ln Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/TheTimeInWords.c)|[]()|[]()|Medium|25|
 |Implementation|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/UtopianTree.c)|[]()|[]()|Easy|20|
 |Implementation|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Implementation/ViralAdvertising.c)|[]()|[]()|Easy|15|
+||||||||
 
 ## Author
 ***Anmol Agrawal***
