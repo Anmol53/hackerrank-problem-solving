@@ -66,6 +66,7 @@ If found helpful please press a ⭐.
 
 ## Content
 #### Algorithms
+
 | Subdomain	| Problem Statement | Solution c | Solution java | Solution js | Difficulty | Score |
 | :-------: | :---------------: | :--------: | :-----------: | :---------: | :--------: | :---: |
 | Warmup | [A Very Big Sum](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/A%20Very%20Big%20Sum/README.md) |[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/A%20Very%20Big%20Sum/A%20Very%20Big%20Sum.c) | [Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Warmup/A%20Very%20Big%20Sum/A%20Very%20Big%20Sum.java)|| Easy|10|
