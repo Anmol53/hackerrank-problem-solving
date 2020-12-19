@@ -122,3 +122,5 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+theme: jekyll-theme-architect
