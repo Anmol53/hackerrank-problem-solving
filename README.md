@@ -18,7 +18,7 @@ This is mostly for my personal learning and future references, and if anyone nee
 ***"Try the problem yourself first, then only proceed to the solution. BE FAITHFUL TO YOUR WORK."***
 
 <p align="center">
-  <img src="https://anmolagrawal.tech/images/tenor.gif">
+  <img src="https://anmolagrawal.dev/images/tenor.gif">
 </p>
 
 If found helpful please press a ⭐.
@@ -36,7 +36,7 @@ If found helpful please press a ⭐.
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
       Repo : 
-      <a href="https://anmolagrawal.tech/Leetcode-Problems/">Leetcode Problems</a>
+      <a href="https://anmolagrawal.dev/leetcode-problems/">Leetcode Problems</a>
       <br>
       <br>
     </td>
@@ -49,7 +49,7 @@ If found helpful please press a ⭐.
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
       Repo : 
-      <a href="https://anmolagrawal.tech/Interviewbit-Practice/">InterviewBit Problems</a>
+      <a href="https://anmolagrawal.dev/interviewbit-practice/">InterviewBit Problems</a>
       <br>
       <br>
     </td>
