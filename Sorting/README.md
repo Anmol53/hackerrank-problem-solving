@@ -32,7 +32,7 @@ If found helpful please press a ⭐.
 
 | Subdomain	| Problem Statement | Solution c | Solution java | Solution js | Difficulty | Score |
 | :-------: | :---------------: | :--------: | :-----------: | :---------: | :--------: | :---: |
-|Sorting|[Alternating Characters](https://www.hackerrank.com/challenges/big-sorting)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/BigSorting.java)|[]()|Easy|20|
+|Sorting|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/BigSorting.java)|[]()|Easy|20|
 |Sorting|[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/FindTheMedian.c)|[]()|[]()|Easy|35|
 
 
