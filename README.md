@@ -156,6 +156,7 @@ If found helpful please press a ⭐.
 |Strings|[Pangrams](https://www.hackerrank.com/challenges/pangrams)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/Pangrams.c)|[]()|[]()|Easy|20|
 |Strings|[Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SeparateTheNumbers.c)|[]()|[]()|Easy|20|
 |Strings|[Sherlock And Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SherlockAndAnagrams.java)|[]()|Medium|50|
+|Strings|[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SherlockAndTheValidString.java)|[]()|Medium|35|
 |Strings|[String Construction](https://www.hackerrank.com/challenges/string-construction)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/StringConstruction.c)|[]()|[]()|Easy|25|
 |Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/StrongPassword.c)|[]()|[]()|Easy|15|
 |Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/SuperReducedString.c)|[]()|[]()|Easy|10|
