@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.hackerrank.com/anmol_53"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="100"></a></p>
 
-# Hackerrank Practice Questions (Problem-Solving / Search)
+# Hackerrank Practice Questions (Problem-Solving / Sorting)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Hackerrank-Problem-Solving) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving?color=%23ff9900)
@@ -24,20 +24,17 @@ If found helpful please press a ⭐.
 - [Warmup](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Warmup)
 - [Implementation](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Implementation)
 - [Strings](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Strings)
-- [Sorting](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Sorting)
-- [Search](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Search) 👈 ***You are here.***
+- [Sorting](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Sorting) 👈 ***You are here.***
+- [Search](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Search)
 - [Greedy](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Greedy)
 
 ## Content
 
 | Subdomain	| Problem Statement | Solution c | Solution java | Solution js | Difficulty | Score |
 | :-------: | :---------------: | :--------: | :-----------: | :---------: | :--------: | :---: |
-|Search|[Connected Cells In A Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/ConnectedCellsInAGrid.java)|[]()|Medium|50|
-|Search|[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/HackerlandRadioTransmitters.c)|[]()|[]()|Medium|25|
-|Search|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Ice%20Cream%20Parlor.c)|[]()|[]()|Easy|30|
-|Search|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Missing%20Numbers.c)|[]()|[]()|Easy|45|
-|Search|[Pairs](https://www.hackerrank.com/challenges/pairs)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/Pairs.java)|[]()|Medium|50|
-|Search|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/SherlockAndArray.c)|[]()|[]()|Easy|40|
+|Sorting|[Alternating Characters](https://www.hackerrank.com/challenges/big-sorting)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/BigSorting.java)|[]()|Easy|20|
+|Sorting|[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/FindTheMedian.c)|[]()|[]()|Easy|35|
+
 
 ## Author
 ***Anmol Agrawal***

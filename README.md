@@ -61,6 +61,7 @@ If found helpful please press a ⭐.
 - [Warmup](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Warmup)
 - [Implementation](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Implementation)
 - [Strings](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Strings)
+- [Sorting](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Sorting)
 - [Search](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Search)
 - [Greedy](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Greedy)
 
@@ -164,6 +165,9 @@ If found helpful please press a ⭐.
 |Strings|[Two Characters](https://www.hackerrank.com/challenges/two-characters)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TwoCharacters.java)|[]()|Easy|20|
 |Strings|[Two Strings](https://www.hackerrank.com/challenges/two-strings)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/TwoStrings.c)|[]()|[]()|Easy|25|
 |Strings|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Strings/WeightedUniformStrings.java)|[]()|Easy|20|
+||||||||
+|Sorting|[Alternating Characters](https://www.hackerrank.com/challenges/big-sorting)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/BigSorting.java)|[]()|Easy|20|
+|Sorting|[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Sorting/FindTheMedian.c)|[]()|[]()|Easy|35|
 ||||||||
 |Search|[Connected Cells In A Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)|[]()|[Solution.java](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/ConnectedCellsInAGrid.java)|[]()|Medium|50|
 |Search|[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)|[Solution.c](https://github.com/Anmol53/Hackerrank-Problem-Solving/blob/master/Search/HackerlandRadioTransmitters.c)|[]()|[]()|Medium|25|

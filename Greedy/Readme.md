@@ -24,6 +24,7 @@ If found helpful please press a ⭐.
 - [Warmup](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Warmup)
 - [Implementation](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Implementation)
 - [Strings](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Strings)
+- [Sorting](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Sorting)
 - [Search](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Search)
 - [Greedy](https://github.com/Anmol53/Hackerrank-Problem-Solving/tree/master/Greedy) 👈 ***You are here.***
 
